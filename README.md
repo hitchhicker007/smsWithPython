@@ -13,7 +13,7 @@ This script is use [twilio](https://github.com/twilio/twilio-python) library.
 
 
 ### USAGE:
-Create an account in [twilio](https://www.twilio.com/)\n
+Create an account in [twilio](https://www.twilio.com/)<br/>
 put your twilio credentials in data.py
 ```
 git clone https://github.com/hitchhicker007/smsWithPython.git
