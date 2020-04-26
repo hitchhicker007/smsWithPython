@@ -1,2 +1,2 @@
 # smsWithPython
-Send SMS with Python using twillio API.
+Send SMS with Python using twilio API.
